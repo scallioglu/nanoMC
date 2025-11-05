@@ -49,7 +49,7 @@ To customize your simulation, you only need to modify the variables in the param
 
 - **`Temperature`** – Sets the system temperature, used to compute thermal energy (`kBT`).
 
-- **`globalminEnergy`** – Defines the desired energy minimum between two particles, controlling interaction strength.
+- **`globalminEnergy`** – Defines the desired energy minimum between two particles, controlling interaction strength (please set 0, if you want to simulate a real material based on their actual vdW interactions)
 
 - **`AASigma`** – Diameter of an atom in the atomistic model (used to define particle size).
 
