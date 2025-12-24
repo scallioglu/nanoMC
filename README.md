@@ -10,7 +10,7 @@ This repository provides a virtual-move Monte Carlo simulation framework for sim
 - Support for **multiple** particle shapes: cubes, rods, disks, and triangular prisms.
 - Virtual-move Monte Carlo simulation using both **single-particle** and **virtual cluster moves** for improved sampling.
 - Also supports **atomistic** and **coarse-grained** interaction models of NPs.
-- Ability to directly specify material-dependent Hamaker constants and particle sizes, enabling straightforward modeling of specific materials
+- Ability to directly specify material-dependent Hamaker constants and particle sizes, enabling straightforward modeling of specific materials.
 - Capability to simulate **phase behavior** and self-assembly under varying interaction strengths and packing densities.
 
 ---
